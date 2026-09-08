@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 私密支持与授权问题
+    url: https://github.com/JinSooo/rynoa-releases/blob/main/SUPPORT.md
+    about: 请通过支持邮箱处理，不要发布到公开 Issue。

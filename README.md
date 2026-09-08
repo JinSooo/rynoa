@@ -1,38 +1,48 @@
-# Rynoa 1.0.0 (2) — 测试版
+# Rynoa
 
-Rynoa 是 macOS 菜单栏快捷动作工具，可将右 Command、右 Option 和机身拍击绑定到常用应用、快捷键或系统动作。
+用右 Command、右 Option 或轻拍 Mac 机身，快速打开应用、发送热键和执行系统动作。
 
-- 右 Command / 右 Option 支持双击、三击和长按。
-- 机身拍击支持双击、三击和四击，不区分左右，单击不触发。
-- 支持暂停触发、动作提示和本地保存配置。
-- 传感器按需运行，异常中断自动尝试恢复。
+**当前版本：v1.0.0-beta.3**，应用内构建号 1.0.0 (3)。[下载安装包与查看版本说明](https://github.com/JinSooo/rynoa-releases/releases)。
 
-## 下载与安装
+## 可以做什么
 
-[下载测试版 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.2/Rynoa-1.0.0-beta.2.dmg) · [SHA-256 校验文件](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.2/Rynoa-1.0.0-beta.2.dmg.sha256) · [全部版本](https://github.com/JinSooo/rynoa-releases/releases)
+- 右 Command / 右 Option：双击、三击、长按。
+- 机身拍击：双击、三击、四击，不区分左右。
+- 打开或切换应用、发送自定义组合键、控制音量/勿扰/截图/窗口等系统动作。
+- 暂停与恢复触发、动作提示、开机启动，以及保存在本机的动作配置。
+- 首次使用引导、手动检查更新、使用帮助、反馈和隐私入口。
 
-下载两个文件到同一目录后，可运行：
+## 安装与开始使用
 
-```sh
-shasum -a 256 -c Rynoa-1.0.0-beta.2.dmg.sha256
-```
+需要 macOS 14 或更新版本。应用包含 Apple Silicon 与 Intel 架构；机身拍击依赖机型与系统，当前验证范围有限，不保证所有 Mac 都支持。
 
-打开安装包，把 Rynoa 拖入 Applications，再从 Applications 启动。按设置页指引授予对应输入监控/辅助功能权限，配置动作后使用。建议先用打开应用等容易确认的动作测试。
+1. 从 [Releases](https://github.com/JinSooo/rynoa-releases/releases) 下载 DMG。
+2. 退出旧 Rynoa，将新应用拖入“应用程序”，再打开。
+3. 按首次使用引导，在“系统设置 → 隐私与安全性”允许输入监控与辅助功能。
+4. 点击菜单栏 Rynoa 图标，给一个手势设置动作并尝试。
 
-## 适用范围
+应用/系统动作选中即保存；热键录制后点“完成”。轻拍即可，不要用力敲击。[完整使用指南与故障排查](HELP.md)。
 
-macOS 14 或更新版本。应用包含 Apple Silicon 与 Intel 架构，但机身拍击只在当前开发机完成验证；包含架构不代表对应硬件有可用的拍击传感器。
+这是开发签名测试包，**尚未完成 Developer ID 发行签名与 Apple 公证**，下载后可能受到 macOS 安全检查阻止。长期拍击体验、睡眠唤醒和其他机型兼容性仍在验证。
 
-机身拍击依赖机器内部传感器及未公开接口，其他 Mac 型号、系统更新和桌面条件仍需验证。弱拍击可能漏检，桌面冲击可能误检。请先试用确认，轻柔敲击即可。
+## 更新
 
-此包为 Apple Development 开发签名，尚未完成 Developer ID 发行签名与 Apple 公证，系统可能阻止打开。正式公证包准备好后另行发布。
+在“设置 → 帮助与关于 → 版本与更新”点击“检查更新”。测试版检查后续测试版和稳定版，稳定版只检查稳定版本；不会自动下载或安装。
 
-## 收费状态
+更新时退出应用，用新 DMG 中的 Rynoa 替换“应用程序”里的旧版，再重新打开。原有动作配置会保留。[变更记录](CHANGELOG.md)。
 
-当前构建没有付费授权或试用到期限制，支付尚未开放。后续收费版的售价、试用规则和授权范围会单独公布。
+## 购买与授权
 
-## 反馈
+**当前测试版无需购买或激活，没有试用到期限制。正式购买暂未开放。**
 
-反馈时请注明 macOS 版本、Mac 型号、触发方式及复现步骤。无需提供许可证、个人配置文件或原始键盘输入。
+后续正式版规则已确定为一次买断：中国 ¥34.99、海外 US$4.99；14 天试用、购买后 2 台 Mac、不提供离线宽限。生产服务、商户审核/结算和正式发行条件仍待落实，开售以之后的正式公告为准。
 
-本仓库只提供发行说明、安装包和反馈入口。[提交问题](https://github.com/JinSooo/rynoa-releases/issues/new)；请勿在公开反馈中提交个人信息。
+## 联系与隐私
+
+普通问题或建议：[提交 Issue](https://github.com/JinSooo/rynoa-releases/issues/new/choose)。私密问题及授权支持：[kimjinso@qq.com](mailto:kimjinso@qq.com)。
+
+反馈请附版本、macOS、Mac 型号与复现步骤；不要在公开 Issue 中上传许可证、订单或个人信息。[支持说明](SUPPORT.md)。
+
+映射、偏好和最近选择保存在本机；不记录输入内容，不保存或上传原始拍击信号。手动检查更新会连接 GitHub。[完整隐私说明](PRIVACY.md)。
+
+本仓库用于下载、说明和反馈，应用源码另行维护。[第三方归属](THIRD_PARTY_NOTICES.md)，许可文件随安装包提供。

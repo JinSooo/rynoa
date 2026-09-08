@@ -1,0 +1,28 @@
+name: 故障反馈
+description: 报告安装、手势或界面问题
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "这是公开页面，请勿填写许可证、订单号、邮箱或其他个人信息。私密问题请发邮件至 kimjinso@qq.com。"
+  - type: input
+    id: version
+    attributes:
+      label: Rynoa 版本
+      description: 可在设置或“帮助与关于”中查看。
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: macOS 版本与 Mac 型号
+      placeholder: 例如 macOS 15，MacBook Pro M3；不要填写序列号。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、实际结果与预期结果
+      description: 如涉及手势，请说明右 Command、右 Option 或机身拍击，以及点击次数。
+    validations:
+      required: true
