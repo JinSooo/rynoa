@@ -2,11 +2,11 @@
 
 用右 Command、右 Option 或轻拍 Mac 机身，快速打开应用、发送热键和执行系统动作。
 
-**当前版本：v1.0.0-beta.4**，应用内构建号 1.0.0 (4)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.4/Rynoa-1.0.0-beta.4.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.4)。
+**当前版本：v1.0.0-beta.5**，应用内构建号 1.0.0 (5)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.5/Rynoa-1.0.0-beta.4.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.5)。
 
 ## 可以做什么
 
-- 右 Command / 右 Option：双击、三击、长按。
+- 右 Command / 右 Option：单击、双击、三击、长按。
 - 机身拍击：双击、三击、四击，不区分左右。
 - 打开或切换应用、发送自定义组合键、控制音量/勿扰/截图/窗口等系统动作。
 - 暂停与恢复触发、动作提示、开机启动，以及保存在本机的动作配置。
