@@ -2,7 +2,7 @@
 
 用右 Command、右 Option 或轻拍 Mac 机身，快速打开应用、发送热键和执行系统动作。
 
-**当前版本：v1.0.0-beta.5**，应用内构建号 1.0.0 (5)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.5/Rynoa-1.0.0-beta.4.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.5)。
+**当前版本：v1.0.0-beta.5**，应用内构建号 1.0.0 (5)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.5/Rynoa-1.0.0-beta.5.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.5)。
 
 ## 可以做什么
 
