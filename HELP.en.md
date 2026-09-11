@@ -6,7 +6,7 @@ Rynoa lives in the menu bar at the top of your Mac screen. Click its icon to ope
 
 ## Getting started
 
-1. Read the getting-started screen after installation. You can reopen it from the help and about section in settings.
+1. Read the getting-started screen after installation. You can reopen it from **Settings → Getting started**.
 2. Allow Rynoa's **Input Monitoring** and **Accessibility** permissions under **System Settings → Privacy & Security**. Input Monitoring recognizes right Command / Option gestures; Accessibility sends the shortcuts and system actions you configure.
 3. Click **+** beside an input group to add a gesture, then select an app, shortcut, or system action. Only configured bindings appear on the overview. Click one to edit it. App and system-action selections save immediately; finish recording a shortcut to save it, or go back to discard the change.
 4. Start with one everyday gesture. The pause control on the overview temporarily stops all actions.
@@ -58,6 +58,8 @@ Choose the quit action in settings. To uninstall, first turn off launch at login
 
 For more help, see [support information](SUPPORT.en.md).
 
-Starting with **beta.9**, use **About → Check → Download → Install & restart**. Rynoa verifies the release version, package integrity, and developer signature, then replaces the app and reopens it. Your bindings and preferences are retained. The app must be in a writable Applications folder. You can retry a failed update.
+In **beta.10**, use **Settings → Check for updates → Download → Install & restart**. Rynoa verifies the release version, package integrity, and developer signature, then replaces the app and reopens it. Your bindings and preferences are retained. The app must be in a writable Applications folder. You can retry a failed update.
 
-**Beta.8 and earlier need one manual installation of beta.9** before in-app updates are available.
+**Beta.8 and earlier need one manual installation of the latest version** before in-app updates are available.
+
+Beta.9 already supports in-app updates from About. After upgrading to beta.10, use the version row in Settings.

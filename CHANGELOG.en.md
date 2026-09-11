@@ -2,6 +2,16 @@
 
 [简体中文](CHANGELOG.md) · English
 
+## v1.0.0-beta.10 — 2026-09-11
+
+App version 1.0.0 (10). Free public beta.
+
+- Settings now includes updates, getting started, privacy and access, and feedback in one page.
+- The update control aligns with the version and uses matching typography and color.
+- Preference switches and help links share a compact list style with tighter spacing.
+- Bindings and preferences are retained. Beta.9 supports in-app updating; older versions need the latest DMG installed manually.
+- Continues the development-signed, unnotarized free beta distribution.
+
 ## v1.0.0-beta.9 — September 11, 2026
 
 App version 1.0.0 (9). Free public beta.
