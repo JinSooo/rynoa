@@ -1,5 +1,7 @@
 # 联系与支持
 
+简体中文 · [English](SUPPORT.en.md)
+
 - 普通故障或功能建议：[提交 GitHub Issue](https://github.com/JinSooo/rynoa/issues/new/choose)。
 - 私密问题、订单或授权支持：[kimjinso@qq.com](mailto:kimjinso@qq.com)。请在标题中写明 Rynoa。
 
