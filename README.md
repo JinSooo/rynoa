@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://rynoa.jinso.top">官网</a> ·
-  <a href="https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg"><strong>下载 Mac 版</strong></a> ·
+  <a href="https://github.com/JinSooo/rynoa/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg"><strong>下载 Mac 版</strong></a> ·
   <a href="HELP.md">使用指南</a> ·
-  <a href="https://github.com/JinSooo/rynoa-releases/issues/new/choose">反馈问题</a>
+  <a href="https://github.com/JinSooo/rynoa/issues/new/choose">反馈问题</a>
 </p>
 
 <p align="center">免费测试版 · macOS 14+ · Apple Silicon / Intel<br />当前版本 v1.0.0-beta.6</p>
@@ -39,7 +39,7 @@
 
 ## 安装，设置，然后试一下
 
-1. [下载 Rynoa DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg)，升级前先退出旧版。
+1. [下载 Rynoa DMG](https://github.com/JinSooo/rynoa/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg)，升级前先退出旧版。
 2. 打开安装包，将 **Rynoa** 拖到 **Applications**，再从“应用程序”打开。
 3. 按首次使用引导，在“系统设置 → 隐私与安全性”允许**输入监控**与**辅助功能**。
 4. 点击菜单栏 Rynoa 图标，给一个手势设置动作，开始使用。
@@ -60,10 +60,10 @@
 
 ## 更新与反馈
 
-在“设置 → 帮助与关于 → 版本与更新”手动检查更新，或直接查看 [Releases](https://github.com/JinSooo/rynoa-releases/releases)。应用不会自动下载或安装。更新时退出 Rynoa，用新版本替换“应用程序”中的旧版，再重新打开，原有动作配置会保留。
+请直接查看 [Releases](https://github.com/JinSooo/rynoa/releases) 获取新版本。仓库已更名，**beta.6 及更早版本的应用内更新检查可能误报“已是最新版本”**，请以 Releases 为准。应用不会自动下载或安装。更新时退出 Rynoa，用新版本替换“应用程序”中的旧版，再重新打开，原有动作配置会保留。
 
-- [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.6) · [完整变更记录](CHANGELOG.md)
-- 问题与建议：[提交 Issue](https://github.com/JinSooo/rynoa-releases/issues/new/choose)，请附版本、macOS、Mac 型号与复现步骤。
+- [版本说明](https://github.com/JinSooo/rynoa/releases/tag/v1.0.0-beta.6) · [完整变更记录](CHANGELOG.md)
+- 问题与建议：[提交 Issue](https://github.com/JinSooo/rynoa/issues/new/choose)，请附版本、macOS、Mac 型号与复现步骤。
 - 私密问题：[kimjinso@qq.com](mailto:kimjinso@qq.com)。请勿在公开 Issue 上传个人信息、订单或许可证。详见[支持说明](SUPPORT.md)。
 
 ---

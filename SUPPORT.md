@@ -1,6 +1,6 @@
 # 联系与支持
 
-- 普通故障或功能建议：[提交 GitHub Issue](https://github.com/JinSooo/rynoa-releases/issues/new/choose)。
+- 普通故障或功能建议：[提交 GitHub Issue](https://github.com/JinSooo/rynoa/issues/new/choose)。
 - 私密问题、订单或授权支持：[kimjinso@qq.com](mailto:kimjinso@qq.com)。请在标题中写明 Rynoa。
 
 反馈时请说明 Rynoa 版本、macOS 版本、Mac 型号、使用的手势、复现步骤和预期结果。截图请先遮挡私人信息。

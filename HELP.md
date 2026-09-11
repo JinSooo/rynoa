@@ -32,9 +32,9 @@ Rynoa 常驻 Mac 屏幕顶部菜单栏。找不到窗口时，点击菜单栏的
 
 ## 更新
 
-打开“设置 → 帮助与关于 → 版本与更新 → 检查更新”。这是手动检查，不会自动下载或安装。
+仓库已从 `rynoa-releases` 更名为 `rynoa`。**beta.6 及更早版本的应用内更新检查可能误报“已是最新版本”**，请直接查看 [Releases](https://github.com/JinSooo/rynoa/releases) 获取新版本。应用不会自动下载或安装。
 
-测试版检查后续测试版及稳定版；稳定版只检查稳定版本。仅推荐已有 DMG 附件的发布。网络失败时可以重试或直接打开 [Releases](https://github.com/JinSooo/rynoa-releases/releases)。
+测试版检查后续测试版及稳定版；稳定版只检查稳定版本。仅推荐已有 DMG 附件的发布。网络失败时可以重试或直接打开 [Releases](https://github.com/JinSooo/rynoa/releases)。
 
 安装更新：退出旧 Rynoa → 下载新 DMG → 将新应用拖入“应用程序”并替换 → 重新打开。原有动作和偏好会保留。请先保留旧 DMG，便于遇到问题时恢复上一版。
 
