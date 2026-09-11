@@ -2,6 +2,15 @@
 
 [简体中文](CHANGELOG.md) · English
 
+## v1.0.0-beta.9 — September 11, 2026
+
+App version 1.0.0 (9). Free public beta.
+
+- Download, verify, install, and restart within Rynoa, with English and Simplified Chinese controls.
+- Checks package integrity, release version, and developer signature. Attempts to restore the previous app if replacement fails.
+- Beta.8 and earlier require one manual installation of beta.9 to gain in-app updates. Existing bindings and preferences are retained.
+- Continues to use development signing without Apple notarization.
+
 ## v1.0.0-beta.8 — September 11, 2026
 
 App version 1.0.0 (8). Free public beta.

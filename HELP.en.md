@@ -46,7 +46,7 @@ Recognition can vary with your Mac, desk, and posture. Hardware testing is limit
 
 ## Updates
 
-The repository was renamed from `rynoa-releases` to `rynoa`. **Beta.6 and earlier may incorrectly report that you are up to date.** Beta.7 fixes the update address. For older versions, use [Releases](https://github.com/JinSooo/rynoa/releases) directly. Rynoa never downloads or installs updates automatically.
+The repository was renamed from `rynoa-releases` to `rynoa`. **Beta.6 and earlier may incorrectly report that you are up to date.** Beta.7 fixes the update address. For older versions, use [Releases](https://github.com/JinSooo/rynoa/releases) directly. Rynoa only downloads and installs updates when you choose.
 
 Beta builds check for later betas and stable releases; stable builds check only for stable releases. Only releases with a DMG attachment are recommended. If a network request fails, retry or open Releases directly.
 
@@ -57,3 +57,7 @@ Quit the old version, download the new DMG, replace Rynoa in Applications, and r
 Choose the quit action in settings. To uninstall, first turn off launch at login, quit Rynoa, then move it from Applications to the Trash. Removing the app does not automatically erase local preferences. If you use a future licensed version, deactivate this Mac before switching devices or uninstalling.
 
 For more help, see [support information](SUPPORT.en.md).
+
+Starting with **beta.9**, use **About → Check → Download → Install & restart**. Rynoa verifies the release version, package integrity, and developer signature, then replaces the app and reopens it. Your bindings and preferences are retained. The app must be in a writable Applications folder. You can retry a failed update.
+
+**Beta.8 and earlier need one manual installation of beta.9** before in-app updates are available.
