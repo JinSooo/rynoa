@@ -2,7 +2,7 @@
 
 用右 Command、右 Option 或轻拍 Mac 机身，快速打开应用、发送热键和执行系统动作。
 
-**当前版本：v1.0.0-beta.5**，应用内构建号 1.0.0 (5)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.5/Rynoa-1.0.0-beta.5.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.5)。
+**当前版本：v1.0.0-beta.6**，应用内构建号 1.0.0 (6)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.6)。
 
 ## 可以做什么
 
@@ -17,7 +17,7 @@
 需要 macOS 14 或更新版本。应用包含 Apple Silicon 与 Intel 架构；机身拍击依赖机型与系统，当前验证范围有限，不保证所有 Mac 都支持。
 
 1. 从 [Releases](https://github.com/JinSooo/rynoa-releases/releases) 下载 DMG。
-2. 退出旧 Rynoa，将新应用拖入“应用程序”，再打开。
+2. 打开 DMG，将彩色 Rynoa 图标拖到右侧 Applications 文件夹，再从“应用程序”打开。升级前先退出旧版。
 3. 按首次使用引导，在“系统设置 → 隐私与安全性”允许输入监控与辅助功能。
 4. 点击菜单栏 Rynoa 图标，给一个手势设置动作并尝试。
 
