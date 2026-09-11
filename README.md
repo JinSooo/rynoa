@@ -1,48 +1,71 @@
-# Rynoa
+<p align="center">
+  <img src="assets/rynoa-icon.png" alt="Rynoa 彩色应用图标" width="104" />
+</p>
 
-用右 Command、右 Option 或轻拍 Mac 机身，快速打开应用、发送热键和执行系统动作。
+<h1 align="center">Rynoa</h1>
 
-**当前版本：v1.0.0-beta.6**，应用内构建号 1.0.0 (6)。[下载 DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg) · [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.6)。
+<p align="center"><strong>让 Mac 更顺你的手。</strong></p>
+<p align="center">轻按右侧按键，或轻拍 Mac 机身，把常用操作交给一个手势。</p>
 
-## 可以做什么
+<p align="center">
+  <a href="https://rynoa.jinso.top">官网</a> ·
+  <a href="https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg"><strong>下载 Mac 版</strong></a> ·
+  <a href="HELP.md">使用指南</a> ·
+  <a href="https://github.com/JinSooo/rynoa-releases/issues/new/choose">反馈问题</a>
+</p>
 
-- 右 Command / 右 Option：单击、双击、三击、长按。
-- 机身拍击：双击、三击、四击，不区分左右。
-- 打开或切换应用、发送自定义组合键、控制音量/勿扰/截图/窗口等系统动作。
-- 暂停与恢复触发、动作提示、开机启动，以及保存在本机的动作配置。
-- 首次使用引导、手动检查更新、使用帮助、反馈和隐私入口。
+<p align="center">免费测试版 · macOS 14+ · Apple Silicon / Intel<br />当前版本 v1.0.0-beta.6</p>
 
-## 安装与开始使用
+<br />
 
-需要 macOS 14 或更新版本。应用包含 Apple Silicon 与 Intel 架构；机身拍击依赖机型与系统，当前验证范围有限，不保证所有 Mac 都支持。
+<p align="center">
+  <img src="assets/rynoa-overview.png" alt="Rynoa 菜单栏面板：为右 Command 的单击、双击、三击和长按分别设置动作" width="319" />
+</p>
+<p align="center"><sub>真实应用界面。图中为示例配置，每个手势都可以换成你常用的动作。</sub></p>
 
-1. 从 [Releases](https://github.com/JinSooo/rynoa-releases/releases) 下载 DMG。
-2. 打开 DMG，将彩色 Rynoa 图标拖到右侧 Applications 文件夹，再从“应用程序”打开。升级前先退出旧版。
-3. 按首次使用引导，在“系统设置 → 隐私与安全性”允许输入监控与辅助功能。
-4. 点击菜单栏 Rynoa 图标，给一个手势设置动作并尝试。
+## 一个手势，少几步操作
 
-应用/系统动作选中即保存；热键录制后点“完成”。轻拍即可，不要用力敲击。[完整使用指南与故障排查](HELP.md)。
+打开微信、呼出聚焦搜索、截取屏幕、显示桌面——Rynoa 常驻菜单栏，让这些小事随手完成。
 
-这是开发签名测试包，**尚未完成 Developer ID 发行签名与 Apple 公证**，下载后可能受到 macOS 安全检查阻止。长期拍击体验、睡眠唤醒和其他机型兼容性仍在验证。
+| 触发方式 | 可设置的手势 |
+| --- | --- |
+| 右 Command ⌘ | 单击、双击、三击、长按 |
+| 右 Option ⌥ | 单击、双击、三击、长按 |
+| 机身拍击 | 双击、三击、四击，不区分左右 |
 
-## 更新
+每个手势可以独立设置为**打开或切换应用**、**发送自定义组合键**，或**执行系统动作**，如音量、勿扰、截图与窗口操作。随时可以暂停触发；动作配置保存在本机。
 
-在“设置 → 帮助与关于 → 版本与更新”点击“检查更新”。测试版检查后续测试版和稳定版，稳定版只检查稳定版本；不会自动下载或安装。
+机身拍击依赖 Mac 机型和系统，目前验证范围有限，不保证所有 Mac 都支持。轻拍即可，不必用力；不支持拍击的设备仍可使用键盘手势。
 
-更新时退出应用，用新 DMG 中的 Rynoa 替换“应用程序”里的旧版，再重新打开。原有动作配置会保留。[变更记录](CHANGELOG.md)。
+## 安装，设置，然后试一下
 
-## 免费使用
+1. [下载 Rynoa DMG](https://github.com/JinSooo/rynoa-releases/releases/download/v1.0.0-beta.6/Rynoa-1.0.0-beta.6.dmg)，升级前先退出旧版。
+2. 打开安装包，将 **Rynoa** 拖到 **Applications**，再从“应用程序”打开。
+3. 按首次使用引导，在“系统设置 → 隐私与安全性”允许**输入监控**与**辅助功能**。
+4. 点击菜单栏 Rynoa 图标，给一个手势设置动作，开始使用。
 
-**当前测试版无需购买、注册或激活，没有试用到期限制。**键盘手势、机身拍击和动作映射可离线使用；检查更新和在线帮助需要网络。
+<p align="center">
+  <img src="assets/rynoa-installer.png" alt="Rynoa 安装窗口：将左侧彩色 Rynoa 图标拖入右侧 Applications 文件夹" width="540" />
+</p>
 
-收费计划延期，当前优先完善使用体验与兼容性。
+应用与系统动作选中即保存；录制热键后点“完成”。遇到问题可查看[完整使用指南与故障排查](HELP.md)。
 
-## 联系与隐私
+> 当前为开发签名测试包，尚未完成 Developer ID 发行签名与 Apple 公证，macOS 可能阻止打开。长期拍击体验、睡眠唤醒和更多机型兼容性仍在验证。
 
-普通问题或建议：[提交 Issue](https://github.com/JinSooo/rynoa-releases/issues/new/choose)。私密问题及授权支持：[kimjinso@qq.com](mailto:kimjinso@qq.com)。
+## 免费使用，本地保存
 
-反馈请附版本、macOS、Mac 型号与复现步骤；不要在公开 Issue 中上传许可证、订单或个人信息。[支持说明](SUPPORT.md)。
+当前测试版**无需购买、注册或激活，没有试用到期限制**。收费计划延期，当前优先完善体验与兼容性。
 
-映射、偏好和最近选择保存在本机；不记录输入内容，不保存或上传原始拍击信号。手动检查更新会连接 GitHub。[完整隐私说明](PRIVACY.md)。
+键盘手势、机身拍击和动作映射可离线使用。映射、偏好和最近选择保存在本机；不记录输入内容，不保存或上传原始拍击信号。手动检查更新会连接 GitHub，在线帮助也需要网络。详见[隐私说明](PRIVACY.md)。
 
-本仓库用于下载、说明和反馈，应用源码另行维护。[第三方归属](THIRD_PARTY_NOTICES.md)，许可文件随安装包提供。
+## 更新与反馈
+
+在“设置 → 帮助与关于 → 版本与更新”手动检查更新，或直接查看 [Releases](https://github.com/JinSooo/rynoa-releases/releases)。应用不会自动下载或安装。更新时退出 Rynoa，用新版本替换“应用程序”中的旧版，再重新打开，原有动作配置会保留。
+
+- [版本说明](https://github.com/JinSooo/rynoa-releases/releases/tag/v1.0.0-beta.6) · [完整变更记录](CHANGELOG.md)
+- 问题与建议：[提交 Issue](https://github.com/JinSooo/rynoa-releases/issues/new/choose)，请附版本、macOS、Mac 型号与复现步骤。
+- 私密问题：[kimjinso@qq.com](mailto:kimjinso@qq.com)。请勿在公开 Issue 上传个人信息、订单或许可证。详见[支持说明](SUPPORT.md)。
+
+---
+
+本仓库提供 Rynoa 的下载、使用说明与反馈入口。应用源码另行维护。[第三方归属](THIRD_PARTY_NOTICES.md)；许可文件随应用提供。
