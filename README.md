@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rynoa-icon.png" alt="Rynoa 彩色应用图标" width="104" />
+  <img src="assets/rynoa-mark-color.png" alt="Rynoa 彩色标志" width="112" />
 </p>
 
 <h1 align="center">Rynoa</h1>
