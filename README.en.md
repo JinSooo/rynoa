@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://rynoa.jinso.top/en">Website</a> ·
-  <a href="https://github.com/JinSooo/rynoa/releases/download/v1.0.0-beta.10/Rynoa-1.0.0-beta.10.dmg"><strong>Download for Mac</strong></a> ·
+  <a href="https://github.com/JinSooo/rynoa/releases/download/v1.0.0/Rynoa-1.0.0.dmg"><strong>Download for Mac</strong></a> ·
   <a href="HELP.en.md">User guide</a> ·
   <a href="https://github.com/JinSooo/rynoa/issues/new/choose">Report an issue</a>
 </p>
 
-<p align="center">Free beta · macOS 14+ · Apple Silicon / Intel<br />Current release: v1.0.0-beta.10</p>
+<p align="center">Free release · macOS 14+ · Apple Silicon / Intel<br />Current release: v1.0.0</p>
 
 <p align="center">
   <img src="assets/rynoa-overview-en.png" alt="Rynoa menu bar panel showing configured actions and buttons for adding gestures; English interface" width="319" />
@@ -38,22 +38,22 @@ Body taps depend on your Mac model and macOS version. Hardware validation is cur
 
 ## Install and try it
 
-1. [Download the Rynoa DMG](https://github.com/JinSooo/rynoa/releases/download/v1.0.0-beta.10/Rynoa-1.0.0-beta.10.dmg). Quit any older version before updating.
+1. [Download the Rynoa DMG](https://github.com/JinSooo/rynoa/releases/download/v1.0.0/Rynoa-1.0.0.dmg). Quit any older version before updating.
 2. Open the disk image, drag **Rynoa** into **Applications**, then launch it from Applications.
 3. Follow the onboarding instructions to allow **Input Monitoring** and **Accessibility** in **System Settings → Privacy & Security**.
 4. Click the Rynoa menu bar icon. Use **+** beside an input group to add a gesture, then choose an action. Click an existing binding to edit it.
 
 App and system-action selections save immediately. After recording a shortcut, click the completion button to save it. Reopen the panel within **5 seconds** to return to the same page with your search and unsaved shortcut draft; after 5 seconds it returns to the overview. See the [user guide and troubleshooting](HELP.en.md).
 
-> The current release is a development-signed beta and has not completed Developer ID distribution signing or Apple notarization. macOS may block it from opening. Long-term body-tap use, sleep/wake behavior, and compatibility with more Mac models still need testing.
+> The current release is a development-signed release and has not completed Developer ID distribution signing or Apple notarization. macOS may block it from opening. Long-term body-tap use, sleep/wake behavior, and compatibility with more Mac models still need testing.
 
 ## English and Simplified Chinese
 
 Rynoa supports English and Simplified Chinese and follows your macOS language by default. To change only Rynoa, open **System Settings → General → Language & Region → Applications**, click **+**, add Rynoa, and choose **English** or **Simplified Chinese**. Fully quit and reopen Rynoa to apply the change.
 
-## Free beta, local settings
+## Free release, local settings
 
-The current beta requires **no purchase, registration, or activation, and has no trial expiry**. Paid release plans are on hold while usability and compatibility are improved.
+The current version is free, with no purchase, account, activation, or expiration. Future versions may be paid, with advance notice and an early-user discount. This version will remain free to use.
 
 Keyboard gestures, body taps, and action bindings work offline. Bindings, preferences, and recent selections stay on your Mac. Rynoa does not record what you type or save or upload raw body-tap signals. Manually checking for updates connects to GitHub; online help also needs an internet connection. Read the [privacy notice](PRIVACY.en.md).
 
@@ -63,7 +63,7 @@ Check [Releases](https://github.com/JinSooo/rynoa/releases) for downloads. Follo
 
 To update, quit Rynoa, replace the app in Applications, and reopen it. Beta.7 removes bindings for six discontinued system actions and backs up the original settings locally; other bindings and preferences are preserved. Reassign affected gestures as needed.
 
-- [Release notes](https://github.com/JinSooo/rynoa/releases/tag/v1.0.0-beta.10) · [Changelog](CHANGELOG.en.md)
+- [Release notes](https://github.com/JinSooo/rynoa/releases/tag/v1.0.0) · [Changelog](CHANGELOG.en.md)
 - Bugs and suggestions: [open an issue](https://github.com/JinSooo/rynoa/issues/new/choose), including your app version, macOS version, Mac model, and steps to reproduce.
 - Private support: [kimjinso@qq.com](mailto:kimjinso@qq.com). Do not post personal details, orders, or license keys in public issues. See [support information](SUPPORT.en.md).
 

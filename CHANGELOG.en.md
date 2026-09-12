@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.0 — 2026-09-12
+
+- Free release with no purchase, account, activation, or expiration.
+- Future versions may be paid, with advance notice and an early-user discount. This version will remain free.
+- Retains beta.10 gestures, action settings, and in-app updates; upgrades preserve bindings and preferences.
+- macOS 14+, Apple Silicon / Intel. Development-signed and not Apple-notarized; body-tap compatibility has limited validation.
+
 [简体中文](CHANGELOG.md) · English
 
 ## v1.0.0-beta.10 — 2026-09-11

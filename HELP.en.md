@@ -58,7 +58,7 @@ Choose the quit action in settings. To uninstall, first turn off launch at login
 
 For more help, see [support information](SUPPORT.en.md).
 
-In **beta.10**, use **Settings → Check for updates → Download → Install & restart**. Rynoa verifies the release version, package integrity, and developer signature, then replaces the app and reopens it. Your bindings and preferences are retained. The app must be in a writable Applications folder. You can retry a failed update.
+In **v1.0.0 / beta.10**, use **Settings → Check for updates → Download → Install & restart**. Rynoa verifies the release version, package integrity, and developer signature, then replaces the app and reopens it. Your bindings and preferences are retained. The app must be in a writable Applications folder. You can retry a failed update.
 
 **Beta.8 and earlier need one manual installation of the latest version** before in-app updates are available.
 

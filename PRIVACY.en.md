@@ -2,9 +2,9 @@
 
 [简体中文](PRIVACY.md) · English · [Product overview](README.en.md)
 
-Updated: September 11, 2026. Applicable version: Rynoa v1.0.0-beta.8.
+Updated: September 12, 2026. Applicable version: Rynoa v1.0.0.
 
-## Current beta
+## Current free release
 
 - Action bindings, app location information, and launch-at-login, action-feedback, and pause preferences are stored on this Mac.
 - Recent selections retain only the four most recently selected distinct apps to make choosing actions faster.
@@ -16,7 +16,7 @@ Updated: September 11, 2026. Applicable version: Rynoa v1.0.0-beta.8.
 
 ## Free use
 
-The current beta does not call trial, license, or payment APIs. No account, purchase, or activation is required. Keyboard gestures, body taps, and action bindings work offline. If paid access becomes available, the privacy notice and release announcements will be updated first.
+The current free release does not call trial, license, or payment APIs. No account, purchase, or activation is required. Keyboard gestures, body taps, and action bindings work offline. If paid access becomes available, the privacy notice and release announcements will be updated first.
 
 ## Contact
 
