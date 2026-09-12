@@ -15,7 +15,7 @@
   <a href="https://github.com/JinSooo/rynoa/issues/new/choose">Report an issue</a>
 </p>
 
-<p align="center">Free release · macOS 14+ · Apple Silicon / Intel<br />Current release: v1.0.0</p>
+<p align="center">macOS 14+ · Apple Silicon / Intel<br />Current release: v1.0.0</p>
 
 <p align="center">
   <img src="assets/rynoa-overview-en.png" alt="Rynoa menu bar panel showing configured actions and buttons for adding gestures; English interface" width="319" />
@@ -51,7 +51,7 @@ App and system-action selections save immediately. After recording a shortcut, c
 
 Rynoa supports English and Simplified Chinese and follows your macOS language by default. To change only Rynoa, open **System Settings → General → Language & Region → Applications**, click **+**, add Rynoa, and choose **English** or **Simplified Chinese**. Fully quit and reopen Rynoa to apply the change.
 
-## Free release, local settings
+## Local settings and privacy
 
 The current version is free, with no purchase, account, activation, or expiration. Future versions may be paid, with advance notice and an early-user discount. This version will remain free to use.
 

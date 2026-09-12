@@ -16,7 +16,7 @@
   <a href="https://github.com/JinSooo/rynoa/issues/new/choose">反馈问题</a>
 </p>
 
-<p align="center">免费正式版 · macOS 14+ · Apple Silicon / Intel<br />当前版本 v1.0.0</p>
+<p align="center">macOS 14+ · Apple Silicon / Intel<br />当前版本 v1.0.0</p>
 
 <br />
 
@@ -54,7 +54,7 @@
 
 Rynoa 支持简体中文与英文，默认跟随 macOS 语言。要单独切换应用语言，打开 **系统设置 → 通用 → 语言与地区 → 应用程序**，点击 **＋** 添加 Rynoa 并选择 **English** 或**简体中文**。完全退出并重新打开 Rynoa 后生效。
 
-## 免费使用，本地保存
+## 本地保存与隐私
 
 当前版本免费，无需购买、注册或激活，没有到期限制。未来版本可能收费，收费前会提前公告，早期用户将获得优惠。本版本可继续免费使用。
 
