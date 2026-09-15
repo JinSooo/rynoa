@@ -11,12 +11,12 @@
 
 <p align="center">
   <a href="https://rynoa.jinso.top">官网</a> ·
-  <a href="https://github.com/JinSooo/rynoa/releases/download/v1.0.0/Rynoa-1.0.0.dmg"><strong>下载 Mac 版</strong></a> ·
+  <a href="https://github.com/JinSooo/rynoa/releases/download/v1.0.2/Rynoa-1.0.2.dmg"><strong>下载 Mac 版</strong></a> ·
   <a href="HELP.md">使用指南</a> ·
   <a href="https://github.com/JinSooo/rynoa/issues/new/choose">反馈问题</a>
 </p>
 
-<p align="center">macOS 14+ · Apple Silicon / Intel<br />当前版本 v1.0.0</p>
+<p align="center">macOS 14+ · Apple Silicon / Intel<br />当前版本 v1.0.2</p>
 
 <br />
 
@@ -41,7 +41,7 @@
 
 ## 安装，设置，然后试一下
 
-1. [下载 Rynoa DMG](https://github.com/JinSooo/rynoa/releases/download/v1.0.0/Rynoa-1.0.0.dmg)，升级前先退出旧版。
+1. [下载 Rynoa DMG](https://github.com/JinSooo/rynoa/releases/download/v1.0.2/Rynoa-1.0.2.dmg)，升级前先退出旧版。
 2. 打开安装包，将 **Rynoa** 拖到 **Applications**，再从“应用程序”打开。
 3. 按首次使用引导，在“系统设置 → 隐私与安全性”允许**输入监控**与**辅助功能**。
 4. 点击菜单栏 Rynoa 图标，点击分组标题右侧的 **+** 添加手势，再选择动作。已有绑定直接显示，点击即可修改。
@@ -64,7 +64,7 @@ Rynoa 支持简体中文与英文，默认跟随 macOS 语言。要单独切换�
 
 请直接查看 [Releases](https://github.com/JinSooo/rynoa/releases) 获取新版本。仓库已更名，**beta.6 及更早版本的应用内更新检查可能误报“已是最新版本”**，请以 Releases 为准。beta.7 已修复更新地址。应用不会自动下载或安装。更新时退出 Rynoa，用新版本替换“应用程序”中的旧版，再重新打开，其余动作与偏好会保留；beta.7 会清除已移除的六项系统动作绑定，并在本机备份原配置，受影响的手势需要重新设置。
 
-- [版本说明](https://github.com/JinSooo/rynoa/releases/tag/v1.0.0) · [完整变更记录](CHANGELOG.md)
+- [版本说明](https://github.com/JinSooo/rynoa/releases/tag/v1.0.2) · [完整变更记录](CHANGELOG.md)
 - 问题与建议：[提交 Issue](https://github.com/JinSooo/rynoa/issues/new/choose)，请附版本、macOS、Mac 型号与复现步骤。
 - 私密问题：[kimjinso@qq.com](mailto:kimjinso@qq.com)。请勿在公开 Issue 上传个人信息、订单或许可证。详见[支持说明](SUPPORT.md)。
 

@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.2 — 2026-09-15
+
+App version 1.0.2 (13).
+
+- Fix stale released-modifier state that could block both Right Command and Right Option gestures.
+- Fix keyboard listener recovery being repeatedly postponed by continued input.
+- Add Settings → View logs. Logs stay on your Mac, without typing content or automatic uploads.
+- Update via Settings → Check for updates. Bindings and preferences are retained.
+- Regression tests and universal builds verified; long-running physical keyboard use remains under observation. Development-signed and not notarized.
+
 ## v1.0.0 — 2026-09-12
 
 - Free release with no purchase, account, activation, or expiration.
